@@ -11,6 +11,8 @@ A new Flutter application.
 
 </p>
 
+## Getting Started
+
 This project is an implementation of a Design i found on [Dibble.com](https://dribbble.com/shots/12187493-Podcast-Web) by [Syed Misba-Ul Hussain](https://dribbble.com/syedraju)
 
 ## Art
@@ -22,9 +24,10 @@ This project is an implementation of a Design i found on [Dibble.com](https://dr
 <img src="https://raw.githubusercontent.com/RegNex/InfinityPodcastFlutterDesktop/master/screenshot/art_2.png" width="50%"  height="50%"/>
 <p>Dark Theme</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Download
+
+Download application for MacOS [here](https://dribbble.com/syedraju)
 
 To clone this project,
 open your terminal or cmd
@@ -111,7 +114,7 @@ What things you need to run the app
 
 **Syed Misba-Ul Hussain**
 
-- [**hhttps://dribbble.com/syedraju)
+- (https://dribbble.com/syedraju)
 
 ## License
 
