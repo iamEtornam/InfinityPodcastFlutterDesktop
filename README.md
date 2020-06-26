@@ -27,7 +27,7 @@ This project is an implementation of a Design i found on [Dibble.com](https://dr
 
 ## Download
 
-Download application for MacOS [here](https://dribbble.com/syedraju)
+Download application for MacOS [here](https://github.com/RegNex/InfinityPodcastFlutterDesktop/releases/download/v1.0.0/infinitypodcast.app.zip)
 
 To clone this project,
 open your terminal or cmd
