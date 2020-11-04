@@ -1,9 +1,18 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:infinitypodcast/custom_theme.dart';
+import 'package:window_size/window_size.dart';
 
 import 'home_page.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  if (Platform.isWindows || Platform.isLinux || Platform.isMacOS) {
+    setWindowTitle('App title');
+    setWindowMinSize(const Size(700, 500));
+    setWindowMaxSize(Size.infinite);
+  }
   runApp(MyApp());
 }
 
