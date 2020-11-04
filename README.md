@@ -18,10 +18,10 @@ This project is an implementation of a Design i found on [Dibble.com](https://dr
 ## Art
 
 
-<img src="https://raw.githubusercontent.com/RegNex/InfinityPodcastFlutterDesktop/master/screenshot/art_1.png" width="50%"  height="50%"/>
+<img src="https://raw.githubusercontent.com/RegNex/InfinityPodcastFlutterDesktop/master/screenshot/new_art_1.png" width="50%"  height="50%"/>
 <p>Light Theme</p>
 <br>
-<img src="https://raw.githubusercontent.com/RegNex/InfinityPodcastFlutterDesktop/master/screenshot/art_2.png" width="50%"  height="50%"/>
+<img src="https://raw.githubusercontent.com/RegNex/InfinityPodcastFlutterDesktop/master/screenshot/new_art_2.png" width="50%"  height="50%"/>
 <p>Dark Theme</p>
 
 
