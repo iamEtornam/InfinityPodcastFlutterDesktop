@@ -9,7 +9,6 @@ ThemeData customLightTheme(
   return ThemeData(
       scaffoldBackgroundColor: Color.fromRGBO(248, 249, 250, 1),
       visualDensity: VisualDensity.adaptivePlatformDensity,
-      cursorColor: Color.fromRGBO(105, 73, 199, 1),
       errorColor: Colors.red,
       platform: defaultTargetPlatform,
       primaryColor: Colors.white,
@@ -79,7 +78,6 @@ ThemeData customDarkTheme(
   return ThemeData(
       scaffoldBackgroundColor: Colors.black,
       visualDensity: VisualDensity.adaptivePlatformDensity,
-      cursorColor: Color.fromRGBO(105, 73, 199, 1),
       errorColor: Color(0xFFCF6679),
       primaryColor: Colors.black,
       primaryIconTheme: IconThemeData(color: Colors.grey),
